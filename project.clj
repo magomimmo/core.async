@@ -1,6 +1,6 @@
 (defproject org.clojars.magomimmo/core.async "0.1.0-SNAPSHOT"
   :description "Facilities for async programming and communication in Clojure"
-  :url "https://github.com/magomimmo/core.async"
+  :url "https://github.com/magomimmo/core.async/tree/upgrade"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :min-lein-version "2.2.0"
